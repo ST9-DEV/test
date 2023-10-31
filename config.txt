@@ -1,0 +1,4 @@
+test
+
+git config --global user.email "stanislawjurek.ina@gmail.com"
+git config --global user.name "ST9-DEV"
